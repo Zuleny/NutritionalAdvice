@@ -2,4 +2,4 @@
 
 # Microservicio Plan Alimenticio
 
-![Microservicio Plan Alimenticio](./M2-task2-Diagram.png)
+![Diagrama](./M2-task2-Diagram.png)
